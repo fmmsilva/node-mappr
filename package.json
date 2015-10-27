@@ -1,0 +1,27 @@
+{
+  "name": "node-mappr",
+  "version": "0.1.2",
+  "description": "Converts JSON's '.' properties into complex objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fmmsilva/node-mappr.git"
+  },
+  "keywords": [
+    "json",
+    "map",
+    "complex",
+    "object",
+    "dot",
+    "notation"
+  ],
+  "author": "Felipe Mendonça Marques Silva <fmmsilva@gmail.com> (https://github.com/fmmsilva)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmmsilva/node-mappr/issues"
+  },
+  "homepage": "https://github.com/fmmsilva/node-mappr"
+}
